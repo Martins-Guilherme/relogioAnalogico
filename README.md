@@ -26,7 +26,7 @@ Porque acredito que aprender e criar juntos é muito mais massa! Se você tá es
 
 <br>
 
-[Demonstracao](https://github.com/Martins-Guilherme/relogioAnalogico/blob/main/img/Captura%202025-04-06%2023-46-43.png)
+![Demostracao](https://github.com/Martins-Guilherme/relogioAnalogico/blob/main/img/Captura%202025-04-06%2023-46-43.png)
 
 
 #javascript #html #css #frontend #webdev #opensource #relogio #ui #codenovo
